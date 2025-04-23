@@ -1,0 +1,7 @@
+0! = 1
+9! = 362880
+6! = 720
+Invalid input: -5 is not a valid positive integer.
+Invalid input:  is not a valid integer.
+12! = 479001600
+Invalid input: Remy is not a valid integer.
